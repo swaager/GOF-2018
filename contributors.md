@@ -1,6 +1,6 @@
 ### Thanks for your interest in contributing to the project
 
-### Join the following channels to keep youself updated:
+### Join the following channels to keep yourself updated:
 	
 ##### 1. [Slack](https://join.slack.com/t/gudevs/shared_invite/enQtNDI4ODY5ODM4NzI3LTg3ZTNkYzhiODIyYmU5Y2VmMGRjMDBjZTQxOTI4NGE2NTZlMzQwZjhmOWFmMmIyMGEwNDNjOTE5YTQ4MDk4MjI)
 ##### 2. [WhatsApp](https://chat.whatsapp.com/8KQi05Jte7I3rXoTDXCysT)
