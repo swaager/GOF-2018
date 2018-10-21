@@ -78,7 +78,7 @@ a {
 a:hover, a:focus {
   text-decoration: none;
   outline: none;
-  color: #dd0a37;
+  
 }
 
 ul, ol {
@@ -850,7 +850,10 @@ textarea.input {
 ===========================================================*/
 
 #footer {
-  padding: 60px 0px;
+background: #dd0a37;
+  padding: 50px 0;
+  color: #FFF;
+
 }
 
 .footer-brand {
@@ -858,12 +861,13 @@ textarea.input {
 }
 
 .footer-brand .logo>img {
-  max-height: 50px;
+  max-height: 40px;
 }
 
 .copyright {
-  height: 50px;
+  height: 60px;
   line-height: 50px;
+  text-align: center;
 }
 
 .contact-social {
@@ -872,13 +876,14 @@ textarea.input {
 }
 
 .contact-social a {
+
   display: inline-block;
   width: 30px;
   height: 30px;
   text-align: center;
-  border-radius: 50%;
-  background: #dd0a37;
-  color: #fff;
+  border-radius: 60%;
+  background: #fff;
+  color: #000;
   line-height: 30px;
   margin-right: 15px;
   -webkit-transition: 0.3s all;
